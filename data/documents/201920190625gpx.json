@@ -1,0 +1,40 @@
+{
+  "id": "%2F2019%2F2019%2D06%2D25%2Egpx",
+  "cityNames": [
+    "Paris"
+  ],
+  "countryNames": [
+    "France"
+  ],
+  "durationSeconds": 5627,
+  "countryCodes": [
+    "fr"
+  ],
+  "checksum": "217dc051d93e33a286f7190bf76d7406",
+  "distanceKilometers": 2.0883179060995514,
+  "timezoneInfo": {
+    "id": "Europe\/Paris",
+    "tag": "CEST"
+  },
+  "path": "\/2019\/2019-06-25.gpx",
+  "endTime": "2019-06-25T08:36:45Z",
+  "movingSeconds": 1805,
+  "siteNames": [
+    "Fontaine Saint-Michel"
+  ],
+  "stateNames": [
+    ""
+  ],
+  "startTime": "2019-06-25T07:02:58Z",
+  "bounds": {
+    "min": {
+      "lat": 48.852012999999999,
+      "lon": 2.336754
+    },
+    "max": {
+      "lat": 48.853901,
+      "lon": 2.347035
+    }
+  },
+  "indexTime": "2019-07-13T19:09:17Z"
+}
