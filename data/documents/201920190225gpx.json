@@ -1,0 +1,44 @@
+{
+    "id": "%2F2019%2F2019%2D02%2D25%2Egpx",
+    "cityNames": [
+      "San José",
+      "Saratoga"
+    ],
+    "countryNames": [
+      "USA"
+    ],
+    "durationSeconds": 17637,
+    "countryCodes": [
+      "us"
+    ],
+    "checksum": "304edbb57b7325005728369a2cfeacbd",
+    "distanceKilometers": 87.600706376154719,
+    "timezoneInfo": {
+      "id": "America\/Los_Angeles",
+      "tag": "PDT"
+    },
+    "path": "\/2019\/2019-02-25.gpx",
+    "endTime": "2019-02-25T21:49:57Z",
+    "movingSeconds": 13631,
+    "siteNames": [
+      "Villa Montalvo County Park",
+      "Japanese Friendship Garden",
+      "Kelley Park",
+      "Italianate Garden"
+    ],
+    "stateNames": [
+      "CA"
+    ],
+    "startTime": "2019-02-25T16:56:00Z",
+    "bounds": {
+      "min": {
+        "lat": 37.225755999999997,
+        "lon": -122.034736
+      },
+      "max": {
+        "lat": 37.426760999999999,
+        "lon": -121.842524
+      }
+    },
+    "indexTime": "2019-07-13T19:07:30Z"
+  }

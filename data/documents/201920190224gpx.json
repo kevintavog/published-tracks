@@ -1,0 +1,48 @@
+{
+    "id": "%2F2019%2F2019%2D02%2D24%2Egpx",
+    "cityNames": [
+      "San José"
+    ],
+    "countryNames": [
+      "USA"
+    ],
+    "durationSeconds": 32236,
+    "countryCodes": [
+      "us"
+    ],
+    "checksum": "4f8e9cbfb7a37ba4aff7a58fe51ab76f",
+    "distanceKilometers": 90.885591081039905,
+    "timezoneInfo": {
+      "id": "America\/Los_Angeles",
+      "tag": "PDT"
+    },
+    "path": "\/2019\/2019-02-24.gpx",
+    "endTime": "2019-02-25T00:45:37Z",
+    "movingSeconds": 21246,
+    "siteNames": [
+      "Rosicrucian Park",
+      "Discovery Meadow",
+      "San Jose Municipal Rose Garden",
+      "Guadalupe River Park",
+      "Rosicrucian Egyptian Museum",
+      "San José State University",
+      "San José State University Main Campus",
+      "San Pedro Square Market",
+      "Calvary United Methodist Church;Joyful Noise Christian School"
+    ],
+    "stateNames": [
+      "CA"
+    ],
+    "startTime": "2019-02-24T15:48:21Z",
+    "bounds": {
+      "min": {
+        "lat": 37.293495999999998,
+        "lon": -121.96527399999999
+      },
+      "max": {
+        "lat": 37.426797999999998,
+        "lon": -121.84987
+      }
+    },
+    "indexTime": "2019-07-13T19:07:13Z"
+  }

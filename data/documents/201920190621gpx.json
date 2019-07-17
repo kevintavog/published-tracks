@@ -1,0 +1,61 @@
+{
+    "id": "%2F2019%2F2019%2D06%2D21%2Egpx",
+    "cityNames": [
+      "Le Havre",
+      "Saint-Malo",
+      "Colleville-sur-Mer",
+      "Ouistreham",
+      "Lion-sur-Mer",
+      "Longues-sur-Mer",
+      "Gonneville-sur-Honfleur",
+      "Colleville-Montgomery",
+      "Bernières-sur-Mer",
+      "Carentan-les-Marais",
+      "Notre-Dame-des-Flots",
+      "Saint-Aubin-sur-Mer",
+      "Arromanches-les-Bains",
+      "Saint-Benoît-de-l'Aure",
+      "Biéville-Beuville",
+      "Port-en-Bessin-Huppain",
+      "Manvieux",
+      "Hermanville-sur-Mer"
+    ],
+    "countryNames": [
+      "France"
+    ],
+    "durationSeconds": 46113,
+    "countryCodes": [
+      "fr"
+    ],
+    "checksum": "afdb19c060f039136d45e8388581cbc2",
+    "distanceKilometers": 403.86719214004233,
+    "timezoneInfo": {
+      "id": "Europe\/Paris",
+      "tag": "CEST"
+    },
+    "path": "\/2019\/2019-06-21.gpx",
+    "endTime": "2019-06-21T20:56:09Z",
+    "movingSeconds": 32138,
+    "siteNames": [
+      "Batterie allemande de Longues-sur-Mer",
+      "Parc naturel régional des Marais du Cotentin et du Bessin",
+      "Normandy American Cemetery and Memorial",
+      "Église Notre-Dame-de-l'Assomption",
+      "Stade Océane"
+    ],
+    "stateNames": [
+      ""
+    ],
+    "startTime": "2019-06-21T08:07:36Z",
+    "bounds": {
+      "min": {
+        "lat": 48.54354,
+        "lon": -2.028715
+      },
+      "max": {
+        "lat": 49.501964999999998,
+        "lon": 0.31173899999999999
+      }
+    },
+    "indexTime": "2019-07-13T19:09:06Z"
+  }

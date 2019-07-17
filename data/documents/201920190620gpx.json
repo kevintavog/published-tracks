@@ -1,0 +1,43 @@
+{
+    "id": "%2F2019%2F2019%2D06%2D20%2Egpx",
+    "cityNames": [
+      "Le Havre",
+      "Gonneville-sur-Honfleur",
+      "Paris"
+    ],
+    "countryNames": [
+      "France"
+    ],
+    "durationSeconds": 22810,
+    "countryCodes": [
+      "fr"
+    ],
+    "checksum": "6323b9aa213cf3375daee5f0df267442",
+    "distanceKilometers": 39.35363596149552,
+    "timezoneInfo": {
+      "id": "Europe\/Paris",
+      "tag": "CEST"
+    },
+    "path": "\/2019\/2019-06-20.gpx",
+    "endTime": "2019-06-20T14:33:51Z",
+    "movingSeconds": 8889,
+    "siteNames": [
+      "Baleine",
+      "Stade Océane"
+    ],
+    "stateNames": [
+      ""
+    ],
+    "startTime": "2019-06-20T08:13:41Z",
+    "bounds": {
+      "min": {
+        "lat": 48.875464000000001,
+        "lon": 0.113111
+      },
+      "max": {
+        "lat": 49.503821000000002,
+        "lon": 2.3271929999999998
+      }
+    },
+    "indexTime": "2019-07-13T19:08:30Z"
+  }

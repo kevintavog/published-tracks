@@ -1,88 +1,676 @@
 {
-    "matches": [
-      {
-        "id": "%2F2019%2F2019%2D06%2D25%2Egpx",
-        "cityNames": [
-          "Paris"
-        ],
-        "countryNames": [
-          "France"
-        ],
-        "durationSeconds": 5627,
-        "countryCodes": [
-          "fr"
-        ],
-        "checksum": "217dc051d93e33a286f7190bf76d7406",
-        "distanceKilometers": 2.0883179060995514,
-        "timezoneInfo": {
-          "id": "Europe\/Paris",
-          "tag": "CEST"
-        },
-        "path": "\/2019\/2019-06-25.gpx",
-        "endTime": "2019-06-25T08:36:45Z",
-        "movingSeconds": 1805,
-        "siteNames": [
-          "Fontaine Saint-Michel"
-        ],
-        "stateNames": [
-          ""
-        ],
-        "startTime": "2019-06-25T07:02:58Z",
-        "bounds": {
-          "min": {
-            "lat": 48.852012999999999,
-            "lon": 2.336754
-          },
-          "max": {
-            "lat": 48.853901,
-            "lon": 2.347035
-          }
-        },
-        "indexTime": "2019-07-13T19:09:17Z"
+  "matches": [
+    {
+      "id": "%2F2019%2F2019%2D06%2D25%2Egpx",
+      "cityNames": [
+        "Paris"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 5627,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "217dc051d93e33a286f7190bf76d7406",
+      "distanceKilometers": 2.0883179060995514,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
       },
-      {
-        "id": "%2F2019%2F2019%2D06%2D24%2Egpx",
-        "cityNames": [
-          "Paris",
-          "Le Havre"
-        ],
-        "countryNames": [
-          "France"
-        ],
-        "durationSeconds": 53233,
-        "countryCodes": [
-          "fr"
-        ],
-        "checksum": "2e3d93b9f44a690b8d71df588842d8fa",
-        "distanceKilometers": 223.37999516149281,
-        "timezoneInfo": {
-          "id": "Europe\/Paris",
-          "tag": "CEST"
+      "path": "\/2019\/2019-06-25.gpx",
+      "endTime": "2019-06-25T08:36:45Z",
+      "movingSeconds": 1805,
+      "siteNames": [
+        "Fontaine Saint-Michel"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-25T07:02:58Z",
+      "bounds": {
+        "min": {
+          "lat": 48.852012999999999,
+          "lon": 2.336754
         },
-        "path": "\/2019\/2019-06-24.gpx",
-        "endTime": "2019-06-24T21:15:23Z",
-        "movingSeconds": 18951,
-        "siteNames": [
-          "Port des Champs-Élysées",
-          "31;33",
-          "Arc de Triomphe"
-        ],
-        "stateNames": [
-          ""
-        ],
-        "startTime": "2019-06-24T06:28:10Z",
-        "bounds": {
-          "min": {
-            "lat": 48.838783999999997,
-            "lon": 0.12545100000000001
-          },
-          "max": {
-            "lat": 49.636687999999999,
-            "lon": 2.345326
-          }
+        "max": {
+          "lat": 48.853901,
+          "lon": 2.347035
+        }
+      },
+      "indexTime": "2019-07-13T19:09:17Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D24%2Egpx",
+      "cityNames": [
+        "Paris",
+        "Le Havre"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 53233,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "2e3d93b9f44a690b8d71df588842d8fa",
+      "distanceKilometers": 223.37999516149281,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-24.gpx",
+      "endTime": "2019-06-24T21:15:23Z",
+      "movingSeconds": 18951,
+      "siteNames": [
+        "Port des Champs-Élysées",
+        "31;33",
+        "Arc de Triomphe"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-24T06:28:10Z",
+      "bounds": {
+        "min": {
+          "lat": 48.838783999999997,
+          "lon": 0.12545100000000001
         },
-        "indexTime": "2019-07-13T19:09:34Z"
-      }
-    ],
-    "totalMatches": 2
-  }
+        "max": {
+          "lat": 49.636687999999999,
+          "lon": 2.345326
+        }
+      },
+      "indexTime": "2019-07-13T19:09:34Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D23%2Egpx",
+      "cityNames": [
+        "Le Havre",
+        "Saint-Malo"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 21186,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "c0c551e8d90efdc95aeed1d940f6ea50",
+      "distanceKilometers": 266.794614178367,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-23.gpx",
+      "endTime": "2019-06-23T14:12:02Z",
+      "movingSeconds": 15777,
+      "siteNames": [
+        "Le Havre, la Ville Reconstruite par Auguste Perret",
+        "Stade Océane",
+        "Baleine"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-23T08:18:56Z",
+      "bounds": {
+        "min": {
+          "lat": 48.543382999999999,
+          "lon": -1.992578
+        },
+        "max": {
+          "lat": 49.501998999999998,
+          "lon": 0.27557799999999999
+        }
+      },
+      "indexTime": "2019-07-13T19:07:56Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D22%2Egpx",
+      "cityNames": [
+        "Saint-Malo",
+        "Pontorson",
+        "Le Mont-Saint-Michel"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 48202,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "4d3cad0c4ee4cc8e18d056ca8272e623",
+      "distanceKilometers": 128.87129009235602,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-22.gpx",
+      "endTime": "2019-06-22T22:08:47Z",
+      "movingSeconds": 18745,
+      "siteNames": [
+        "Mont Saint-Michel",
+        "Platelage Ouest",
+        "Camping du Mont-Saint-Michel",
+        "Cimetière communal et son enceinte entourant l'église",
+        "Enclos de la Résistance",
+        "Église abbatiale",
+        "La Lisière"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-22T08:45:25Z",
+      "bounds": {
+        "min": {
+          "lat": 48.543343,
+          "lon": -2.0259209999999999
+        },
+        "max": {
+          "lat": 48.654673000000003,
+          "lon": -1.4981450000000001
+        }
+      },
+      "indexTime": "2019-07-13T19:08:22Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D21%2Egpx",
+      "cityNames": [
+        "Saint-Malo",
+        "Le Havre",
+        "Colleville-sur-Mer",
+        "Ouistreham",
+        "Lion-sur-Mer",
+        "Gonneville-sur-Honfleur",
+        "Longues-sur-Mer",
+        "Notre-Dame-des-Flots",
+        "Bernières-sur-Mer",
+        "Saint-Aubin-sur-Mer",
+        "Colleville-Montgomery",
+        "Carentan-les-Marais",
+        "Arromanches-les-Bains",
+        "Saint-Benoît-de-l'Aure",
+        "Biéville-Beuville",
+        "Manvieux",
+        "Hermanville-sur-Mer",
+        "Port-en-Bessin-Huppain"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 46113,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "afdb19c060f039136d45e8388581cbc2",
+      "distanceKilometers": 403.86719214004233,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-21.gpx",
+      "endTime": "2019-06-21T20:56:09Z",
+      "movingSeconds": 32138,
+      "siteNames": [
+        "Normandy American Cemetery and Memorial",
+        "Parc naturel régional des Marais du Cotentin et du Bessin",
+        "Batterie allemande de Longues-sur-Mer",
+        "Église Notre-Dame-de-l'Assomption",
+        "Stade Océane"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-21T08:07:36Z",
+      "bounds": {
+        "min": {
+          "lat": 48.54354,
+          "lon": -2.028715
+        },
+        "max": {
+          "lat": 49.501964999999998,
+          "lon": 0.31173899999999999
+        }
+      },
+      "indexTime": "2019-07-13T19:09:06Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D20%2Egpx",
+      "cityNames": [
+        "Le Havre",
+        "Gonneville-sur-Honfleur",
+        "Paris"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 22810,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "6323b9aa213cf3375daee5f0df267442",
+      "distanceKilometers": 39.35363596149552,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-20.gpx",
+      "endTime": "2019-06-20T14:33:51Z",
+      "movingSeconds": 8889,
+      "siteNames": [
+        "Baleine",
+        "Stade Océane"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-20T08:13:41Z",
+      "bounds": {
+        "min": {
+          "lat": 48.875464000000001,
+          "lon": 0.113111
+        },
+        "max": {
+          "lat": 49.503821000000002,
+          "lon": 2.3271929999999998
+        }
+      },
+      "indexTime": "2019-07-13T19:08:30Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D19%2Egpx",
+      "cityNames": [
+        "Paris"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 20657,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "44f3554be7b449e0baecbc081593978c",
+      "distanceKilometers": 9.9651800023359574,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-19.gpx",
+      "endTime": "2019-06-19T14:06:24Z",
+      "movingSeconds": 11050,
+      "siteNames": [
+        "Jardin des grands explorateurs",
+        "Jardin du Luxembourg"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-19T08:22:07Z",
+      "bounds": {
+        "min": {
+          "lat": 48.832785999999999,
+          "lon": 2.3236309999999998
+        },
+        "max": {
+          "lat": 48.864677999999998,
+          "lon": 2.3529080000000002
+        }
+      },
+      "indexTime": "2019-07-13T19:09:15Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D18%2Egpx",
+      "cityNames": [
+        "Paris",
+        "Fontainebleau"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 40626,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "7e3f757b2b83691a4a7a3b9207b131e2",
+      "distanceKilometers": 25.455441338097259,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-18.gpx",
+      "endTime": "2019-06-18T18:40:59Z",
+      "movingSeconds": 17106,
+      "siteNames": [
+        "Aire de coopération de la réserve de biosphère du Pays de Fontainebleau",
+        "Palais et Parc de Fontainebleau",
+        "Jardin de Diane",
+        "Jardin Français",
+        "Jardin des Champs-Elysées",
+        "Charles de Gaulle — Étoile (RER)",
+        "Tuileries Garden",
+        "Jardin des grands explorateurs"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-18T07:23:53Z",
+      "bounds": {
+        "min": {
+          "lat": 48.399785999999999,
+          "lon": 2.293555
+        },
+        "max": {
+          "lat": 48.874592999999997,
+          "lon": 2.7276310000000001
+        }
+      },
+      "indexTime": "2019-07-13T19:09:44Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D17%2Egpx",
+      "cityNames": [
+        "Paris",
+        "Montpellier"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 52898,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "2c73dedeb64b3acbf68f06a135b67cdc",
+      "distanceKilometers": 27.212168585642821,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-17.gpx",
+      "endTime": "2019-06-17T21:07:51Z",
+      "movingSeconds": 21237,
+      "siteNames": [
+        "Promenade d'Australie",
+        "Jardin du Luxembourg",
+        "Square de l'Ile de France"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-17T06:26:13Z",
+      "bounds": {
+        "min": {
+          "lat": 43.602884000000003,
+          "lon": 2.2796110000000001
+        },
+        "max": {
+          "lat": 48.860413000000001,
+          "lon": 3.8842680000000001
+        }
+      },
+      "indexTime": "2019-07-13T19:06:12Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D16%2Egpx",
+      "cityNames": [
+        "Nîmes",
+        "Montpellier"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 34096,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "d594c2e2b9581a2918e33351292e5ef9",
+      "distanceKilometers": 48.502014708450183,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-16.gpx",
+      "endTime": "2019-06-16T17:23:59Z",
+      "movingSeconds": 18019,
+      "siteNames": [
+        "Square Planchon",
+        "Les Jardins de la Fontaine",
+        "Arènes de Nimes",
+        "Taureau"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-16T07:55:43Z",
+      "bounds": {
+        "min": {
+          "lat": 43.602997999999999,
+          "lon": 3.8735590000000002
+        },
+        "max": {
+          "lat": 43.843183000000003,
+          "lon": 4.367559
+        }
+      },
+      "indexTime": "2019-07-13T19:05:53Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D15%2Egpx",
+      "cityNames": [
+        "Montpellier"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 27913,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "bde90c4be9258fd100b5f70dfcd1e2a0",
+      "distanceKilometers": 13.624781563132771,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-15.gpx",
+      "endTime": "2019-06-15T19:21:03Z",
+      "movingSeconds": 13067,
+      "siteNames": [
+        "Jardins du Peyrou",
+        "Promenade du Peyrou",
+        "Hôtel de Gayon",
+        "Cathédrale Saint-Pierre"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-15T11:35:50Z",
+      "bounds": {
+        "min": {
+          "lat": 43.604419999999998,
+          "lon": 3.8684029999999998
+        },
+        "max": {
+          "lat": 43.616931000000001,
+          "lon": 3.8836930000000001
+        }
+      },
+      "indexTime": "2019-07-13T19:06:21Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D06%2D14%2Egpx",
+      "cityNames": [
+        "Paris"
+      ],
+      "countryNames": [
+        "France"
+      ],
+      "durationSeconds": 5882,
+      "countryCodes": [
+        "fr"
+      ],
+      "checksum": "d015e19e56d755e50cc92510b30ce945",
+      "distanceKilometers": 3.5977042516317255,
+      "timezoneInfo": {
+        "id": "Europe\/Paris",
+        "tag": "CEST"
+      },
+      "path": "\/2019\/2019-06-14.gpx",
+      "endTime": "2019-06-14T18:55:22Z",
+      "movingSeconds": 3866,
+      "siteNames": [
+        "Square Louise Michel"
+      ],
+      "stateNames": [
+        ""
+      ],
+      "startTime": "2019-06-14T17:17:20Z",
+      "bounds": {
+        "min": {
+          "lat": 48.881844000000001,
+          "lon": 2.332535
+        },
+        "max": {
+          "lat": 48.887808,
+          "lon": 2.3445809999999998
+        }
+      },
+      "indexTime": "2019-07-13T19:06:26Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D02%2D25%2Egpx",
+      "cityNames": [
+        "San José",
+        "Saratoga"
+      ],
+      "countryNames": [
+        "USA"
+      ],
+      "durationSeconds": 17637,
+      "countryCodes": [
+        "us"
+      ],
+      "checksum": "304edbb57b7325005728369a2cfeacbd",
+      "distanceKilometers": 87.600706376154719,
+      "timezoneInfo": {
+        "id": "America\/Los_Angeles",
+        "tag": "PDT"
+      },
+      "path": "\/2019\/2019-02-25.gpx",
+      "endTime": "2019-02-25T21:49:57Z",
+      "movingSeconds": 13631,
+      "siteNames": [
+        "Villa Montalvo County Park",
+        "Japanese Friendship Garden",
+        "Kelley Park",
+        "Italianate Garden"
+      ],
+      "stateNames": [
+        "CA"
+      ],
+      "startTime": "2019-02-25T16:56:00Z",
+      "bounds": {
+        "min": {
+          "lat": 37.225755999999997,
+          "lon": -122.034736
+        },
+        "max": {
+          "lat": 37.426760999999999,
+          "lon": -121.842524
+        }
+      },
+      "indexTime": "2019-07-13T19:07:30Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D02%2D24%2Egpx",
+      "cityNames": [
+        "San José"
+      ],
+      "countryNames": [
+        "USA"
+      ],
+      "durationSeconds": 32236,
+      "countryCodes": [
+        "us"
+      ],
+      "checksum": "4f8e9cbfb7a37ba4aff7a58fe51ab76f",
+      "distanceKilometers": 90.885591081039905,
+      "timezoneInfo": {
+        "id": "America\/Los_Angeles",
+        "tag": "PDT"
+      },
+      "path": "\/2019\/2019-02-24.gpx",
+      "endTime": "2019-02-25T00:45:37Z",
+      "movingSeconds": 21246,
+      "siteNames": [
+        "Rosicrucian Park",
+        "Guadalupe River Park",
+        "San Jose Municipal Rose Garden",
+        "Rosicrucian Egyptian Museum",
+        "Discovery Meadow",
+        "San José State University",
+        "San José State University Main Campus",
+        "Calvary United Methodist Church;Joyful Noise Christian School",
+        "San Pedro Square Market"
+      ],
+      "stateNames": [
+        "CA"
+      ],
+      "startTime": "2019-02-24T15:48:21Z",
+      "bounds": {
+        "min": {
+          "lat": 37.293495999999998,
+          "lon": -121.96527399999999
+        },
+        "max": {
+          "lat": 37.426797999999998,
+          "lon": -121.84987
+        }
+      },
+      "indexTime": "2019-07-13T19:07:13Z"
+    },
+    {
+      "id": "%2F2019%2F2019%2D02%2D23%2Egpx",
+      "cityNames": [
+        "San José"
+      ],
+      "countryNames": [
+        "USA"
+      ],
+      "durationSeconds": 25978,
+      "countryCodes": [
+        "us"
+      ],
+      "checksum": "cb914701d4b75c931399ca27159fdc04",
+      "distanceKilometers": 83.943764741261589,
+      "timezoneInfo": {
+        "id": "America\/Los_Angeles",
+        "tag": "PDT"
+      },
+      "path": "\/2019\/2019-02-23.gpx",
+      "endTime": "2019-02-24T02:16:43Z",
+      "movingSeconds": 8312,
+      "siteNames": [
+        "Avaya Stadium",
+        "Discovery Meadow",
+        "Guadalupe River Park"
+      ],
+      "stateNames": [
+        "CA"
+      ],
+      "startTime": "2019-02-23T19:03:45Z",
+      "bounds": {
+        "min": {
+          "lat": 37.30097,
+          "lon": -121.98098400000001
+        },
+        "max": {
+          "lat": 37.431074000000002,
+          "lon": -121.885701
+        }
+      },
+      "indexTime": "2019-07-13T19:07:41Z"
+    }
+  ],
+  "totalMatches": 15
+}
